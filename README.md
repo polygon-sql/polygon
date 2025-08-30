@@ -1,7 +1,7 @@
-Polygon
+Polygon - Input Generation for SQL
 ========
 
-A symbolic reasoning framework for SQL that can efficiently generate an input database for multiple queries
+A symbolic reasoning framework for SQL that can **efficiently generate an input database** for multiple queries
 such that the query outputs on the generated input satisfy a given property.
 
 ----------------
@@ -54,7 +54,7 @@ Run
 python3 example.py
 ```
 
-which will run Polygon on an example.  The expected output is similar to:
+which will run Polygon on an equivalence checking example for two queries.  The expected output is similar to:
 
 ```
 NEQ Time: 0.262586
@@ -78,7 +78,7 @@ run `export PYTHONPATH=$(pwd)` in the project's root directory first, and then r
 
 ## How to Reuse or Extend Polygon in Other Projects?
 
-Please refer to [reuse.md](reuse.md) for how to integrate or adapt Polygon to benefit your projects.
+Please refer to [REUSABILITY-GUIDE.md](REUSABILITY-GUIDE.md) for how to integrate or adapt Polygon to benefit your projects.
 
 
 
