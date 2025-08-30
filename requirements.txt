@@ -1,0 +1,7 @@
+typing-extensions
+mo-sql-parsing
+lark
+PyYAML
+mysql-connector-python
+multiprocess
+bidict
