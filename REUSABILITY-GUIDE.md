@@ -78,7 +78,7 @@ whereas the second query selects the `emp_id` from the `Employees` table where t
 
 As we can see, the two queries are semantically not equivalent, and are expected to be refuted by Polygon.
 
-(3) **Run Polygon on the new input**
+3. **Run Polygon on the new input**
 
 Running Polygon on the new input as specified above by running `python3 example.py`, the user may expect an output similar to:
 
