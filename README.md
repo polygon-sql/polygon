@@ -1,4 +1,4 @@
-Polygon - Input Generation for SQL
+Polygon - Input Database Generation for SQL
 ========
 
 A symbolic reasoning framework for SQL that can **efficiently generate an input database** for multiple queries
