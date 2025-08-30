@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ## Getting Started
 
-Run
+Run:
 
 ```shell
 python3 example.py
@@ -64,7 +64,7 @@ NEQ Time: 0.262586
 Refuted: True
 ```
 
-### Troubleshooting
+#### Troubleshooting
 If you encounter issues like
 ```
 Traceback (most recent call last):
