@@ -75,12 +75,14 @@ ModuleNotFoundError: No module named 'polygon'
 
 run `export PYTHONPATH=$(pwd)` in the project's root directory first, and then run the script.
 
+----------------
+
 
 ## How to Reuse or Extend Polygon in Other Projects?
 
 Please refer to [REUSABILITY-GUIDE.md](REUSABILITY-GUIDE.md) for how to integrate or adapt Polygon to benefit your projects.
 
-
+----------------
 
 ## Citation
 If you find Polygon helpful in your research, please cite our paper as follows
